@@ -1,7 +1,7 @@
 import React, { memo } from 'react';
 import Lottie, { Options } from 'react-lottie';
 
-import reactAtomic from 'assets/json/react-atomic.json';
+import reactAtomic from 'assets/json/logo.json';
 
 import { Container } from './styles';
 
