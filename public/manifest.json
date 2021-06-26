@@ -1,0 +1,45 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "categories": ["social"],
+  "shortcuts": [
+    {
+      "name": "project",
+      "short_name": "project",
+      "description": "description",
+      "url": "/",
+      "icons": [{ "src": "logo192.png", "sizes": "192x192" }]
+    }
+  ],
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "70x70",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "maskable_icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable" 
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "manifestUrl": "%PUBLIC_URL%/manifest.json",
+  "lang": "pt-br",
+  "description": "description",
+  "orientation": "portrait"
+}
